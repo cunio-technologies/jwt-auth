@@ -20,6 +20,12 @@
             "email": "tymon148@gmail.com",
             "homepage": "https://tymon.xyz",
             "role": "Developer"
+        },
+        {
+            "name": "Martin Kleine",
+            "email": "martin.kleine@cunio.de",
+            "homepage": "https://github.com/cunio-technologies",
+            "role": "Contributor"
         }
     ],
     "require": {
